@@ -6,4 +6,5 @@ let texto = `Hola, ${nombre} ${apellido} ${edad}`;
 console.log(texto);
 
 
-// variables var let const 
+
+
